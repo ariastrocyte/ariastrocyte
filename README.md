@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.png" width="600" alt="Hi, I'm Aria banner">
+  <img src="./banner.png" width="600" style="margin-top:-6px" alt="Hi, I'm Aria banner">
 </p>
 
 <p align="center"><samp>Cognitive Science · ML Learner</samp></p>
