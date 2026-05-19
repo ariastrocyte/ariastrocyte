@@ -5,7 +5,6 @@
 <p align="center">
   <img src="https://shields.io/badge/Code-Python-informational?logo=python">
   <img src="https://shields.io/badge/Stack-ML%20|%20PyTorch-ff69b4">
-  <img src="https://profile-counter.glitch.me/aria/count.svg">
 </p>
 
 ### 🛠️ Toolbox
@@ -25,7 +24,9 @@
 ![Aria's GitHub stats](https://github-readme-stats.vercel.app/api?username=aria&show_icons=true&hide_rank=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aria&layout=compact)
 
-> *“Raise a glass to freedom, something they can never take away!”* — *Hamilton*
+> **“Seize the Day!”**  
+> — *Newsies*
+
 
 
 
