@@ -1,10 +1,10 @@
-<h1 align="center">Hi, I'm <em>Aria</em> 🐾</h1>
+<h1 align="center">Hi, I'm <em>Aria</em> </h1>
 <p align="center"><samp>Cognitive Science · ML Learner</samp></p>
 
 <!--✨ Badges -->
 <p align="center">
   <img src="https://shields.io/badge/Code-Python-informational?logo=python">
-  <img src="https://shields.io/badge/Stack-Astro%20|%20Tailwind-9cf">
+  <img src="https://shields.io/badge/Stack-ML%20|%20PyTorch-ff69b4">
   <img src="https://profile-counter.glitch.me/aria/count.svg">
 </p>
 
@@ -13,7 +13,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="28" alt="python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="28" alt="javascript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="28" alt="pytorch"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="28" alt="tailwindcss"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="28" alt="vscode"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="28" alt="jupyter"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="28" alt="git"/>
