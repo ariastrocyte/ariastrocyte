@@ -2,7 +2,7 @@
   <img src="./banner.png" width="600" style="margin-top:-6px" alt="Hi, I'm Aria banner">
 </p>
 
-<p align="center"><samp>Cognitive Science · ML Learner</samp></p>
+<samp>Python 🐍 · ML Learner ⚙️</samp>
 
 <!--✨ Badges -->
 <p align="center">
@@ -23,9 +23,6 @@
 </div>
 
 
-### 📊 Stats
-![Aria's GitHub stats](https://github-readme-stats.vercel.app/api?username=aria&show_icons=true&hide_rank=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aria&layout=compact)
 
 > **“Seize the Day!”**  
 > — *Newsies*
