@@ -1,4 +1,7 @@
-<h1 align="center">Hi, I'm <em>Aria</em> </h1>
+<p align="center">
+  <img src="./banner.png" width="600" alt="Hi, I'm Aria banner">
+</p>
+
 <p align="center"><samp>Cognitive Science · ML Learner</samp></p>
 
 <!--✨ Badges -->
