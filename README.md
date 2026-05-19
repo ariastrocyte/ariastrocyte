@@ -2,8 +2,6 @@
   <img src="./banner.png" width="600" style="margin-top:-6px" alt="Hi, I'm Aria banner">
 </p>
 
-<samp>Python 🐍 · ML Learner ⚙️</samp>
-
 <!--✨ Badges -->
 <p align="center">
   <img src="https://shields.io/badge/Code-Python-informational?logo=python">
